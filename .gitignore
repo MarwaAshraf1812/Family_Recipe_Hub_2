@@ -12,3 +12,5 @@ __pycache__/
 
 
 setup_project.sh
+
+.env
